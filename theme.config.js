@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/TheDutchSmoke/tristanhollander.nl-projecten',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  docsRepositoryBase: 'https://github.com/TheDutchSmoke/tristanhollander.nl-projecten/blob/master',
   titleSuffix: ' – Nextra',
   logo: (
     <>
