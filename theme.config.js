@@ -1,7 +1,7 @@
 export default {
   github: 'https://github.com/TheDutchSmoke/tristanhollander.nl-projecten',
   docsRepositoryBase: 'https://github.com/TheDutchSmoke/tristanhollander.nl-projecten/blob/master',
-  titleSuffix: ' – Nextra',
+  titleSuffix: ' – Docs',
   logo: (
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
@@ -62,6 +62,6 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: '👋',
+  footerText: <>Made by {new Date().getFullYear()} © Tristan.</>,
+  unstable_faviconGlyph: '🤷🏻‍♂️',
 }
