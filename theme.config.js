@@ -4,9 +4,9 @@ export default {
   titleSuffix: ' – Docs',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">Tristan Docs</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        De [Tristan Hollander](https://tristanhollander.nl) documentatie site!
       </span>
     </>
   ),
