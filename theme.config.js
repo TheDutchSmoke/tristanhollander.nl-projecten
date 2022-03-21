@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Tristan Docs</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        De [Tristan Hollander](https://tristanhollander.nl) documentatie site!
+        De Tristan Hollander documentatie site!
       </span>
     </>
   ),
