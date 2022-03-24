@@ -21,29 +21,24 @@ Firewall met brute-force aanvalsdetectie en IP-lijsten (iptables, fail2ban, en i
   * Ubuntu 18.04 LTS
   * Ubuntu 20.04 LTS
 
-**Stap 2: Log in als de systeemgebruiker (root):**
+*Stap 2: Log in als de systeemgebruiker (root):*
 
 U moet verbinding maken met uw server als root, ofwel rechtstreeks vanaf de console ofwel op afstand via SSH.
 
-**Stap 3: Download de installer:**
-```bash
+*Stap 3: Download de installer:*
+
 wget https://raw.githubusercontent.com/hestiacp/hestiacp/release/install/hst-install.sh
-```
-**Stap 4: Start het installatieprogramma en volg de aanwijzingen:**
-```bash
+
+**Stap 4: Start het installatieprogramma en volg de aanwijzingen:
+
 bash hst-install.sh
-```
-**Om een onbeheerde installatie uit te voeren (met standaardinstellingen):**
-```bash
+
+**Om een onbeheerde installatie uit te voeren (met standaardinstellingen):
+
 bash hst-install.sh --interactive no --email email@domain.tld --password p4ssw0rd --hostname hostname.domain.tld -f
-```
+
 
 ### Special thanks to:
 
 *     De makers van HestiaCP
 * De HestiaCP Github
-
- {:.list-inline}
-
-- Date: Maart 2022
-- Category: Paneel
