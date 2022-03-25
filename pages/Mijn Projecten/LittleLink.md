@@ -4,7 +4,7 @@ LittleLink is een DIY alternatief voor diensten als [Linktree](https://linktr.ee
 
 Hier zie je de officiële uitleg over de Littlelink server:
 
-```test
+~~~
 LittleLink-Server
  
  This project is based on the great work from littlelink. 
@@ -16,4 +16,5 @@ If you need  help configuring this, please see this video that explains everythi
 
 📍 Supported Links & Buttons
 
-Check the config file for all supported buttons!```
+Check the config file for all supported buttons!
+~~~
