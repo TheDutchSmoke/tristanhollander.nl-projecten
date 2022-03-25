@@ -3,6 +3,7 @@
 LittleLink is een DIY alternatief voor diensten als [Linktree](https://linktr.ee) en [many.link](https://many.link). LittleLink is gebouwd met Skeleton, een doodsimpele, responsieve boilerplate – ze hebben alleen wat extra code verwijderd die je niet nodig hebt en merkstijlen toegevoegd voor populaire diensten.
 
 Hier zie je de officiële uitleg over de Littlelink server:
+
 ```
 LittleLink-Server
  
@@ -15,4 +16,5 @@ If you need  help configuring this, please see this video that explains everythi
 
 📍 Supported Links & Buttons
 
-Check the config file for all supported buttons!```
+Check the config file for all supported buttons!
+```
