@@ -1,3 +1,7 @@
+export const config = {
+ unstable_runtimeJS: false
+ }
+
 <h1> Wat is HestiaCP? </h1>
 
 ![Test](https://camo.githubusercontent.com/7b2c9babb427264c2ea1e839df416840ad60baf5aa516146d804903520c540c6/68747470733a2f2f68657374696163702e636f6d2f696d672f73637265656e5f4865737469615365727665722d6461726b2e706e67)

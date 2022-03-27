@@ -1,3 +1,8 @@
+export const config = {
+ unstable_runtimeJS: false
+ }
+
+
 <h1> Littlelink uitleg Docker </h1>
 
 LittleLink is een DIY alternatief voor diensten als [Linktree](https://linktr.ee) en [many.link](https://many.link). LittleLink is gebouwd met Skeleton, een doodsimpele, responsieve boilerplate – ze hebben alleen wat extra code verwijderd die je niet nodig hebt en merkstijlen toegevoegd voor populaire diensten.
