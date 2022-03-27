@@ -1,6 +1,4 @@
-export const config = {
- unstable_runtimeJS: false
- }
+
 
 <h1> Wat is HestiaCP? </h1>
 
